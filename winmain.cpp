@@ -113,5 +113,3 @@ bool CreateMainWindow(HINSTANCE hInstance, int nCmdShow)
 	return true;
 	
 }
-
-//// new
